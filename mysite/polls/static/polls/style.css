@@ -1,6 +1,7 @@
 li a {
-    color: green;
+    font-size: 20px;
+    color: white;
 }
 body {
-    background: pink;
+    background:grey;
 }
